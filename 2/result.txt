@@ -1,0 +1,17 @@
+# MLFA Assignment 2
+
+# Team Members - 
+# Deepansh Agrawal - 19MI10018
+# Rohit Ranjan - 20CS30066
+# Neha Gupta - 20CH10094
+# Gautam Jaju - 20AG30015
+# Siddharth Madhupati - 20ME30083
+# Madiha Hanifa - 20MF10018
+# Himadri Pandya - 20ME10047
+
+-----------------------
+Results
+-----------------------
+
+1. Accuracy of logistic regression (OURS) -> 1.0
+2. Accuracy of logistic regrassion (SKLEARN) -> 1.0

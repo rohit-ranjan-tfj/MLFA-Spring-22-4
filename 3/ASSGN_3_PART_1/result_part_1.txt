@@ -1,0 +1,46 @@
+# MLFA Assignment 3
+
+# Team Members - 
+# Deepansh Agrawal - 19MI10018
+# Rohit Ranjan - 20CS30066
+# Neha Gupta - 20CH10094
+# Gautam Jaju - 20AG30015
+# Siddharth Madhupati - 20ME30083
+# Madiha Hanifa - 20MF10018
+# Himadri Pandya - 20ME10047
+
+-----------------------
+Results
+-----------------------
+
+1. Accuracy of UniformNet -> 0.9631999731063843
+2. Accuracy of PyramidNet -> 0.2793000042438507
+3. Accuracy of InvPyramidNet -> 0.6291999816894531
+
+-----------------------
+MODEL PARAMETERS
+-----------------------
+
+1. UniformNet
+Layers - 10
+Layer dimensions - 50 88 88 88 88 88 88 88 88 10
+Activation - ReLU SoftMax
+Learning Rate - 0.0001
+Batch size - 128
+Epochs - 20
+
+2. PyramidNet
+Layers - 10
+Layer dimensions - 50 16 1250 8 625 4 312 2 156 10
+Activation - ReLU SoftMax
+Learning Rate - 0.0001
+Batch size - 128
+Epochs - 20
+
+3. InvPyramidNet
+Layers - 10
+Layer dimensions - 50 5 94 10 188 20 376 40 750 10
+Activation - ReLU SoftMax
+Learning Rate - 0.0001
+Batch size - 128
+Epochs - 20

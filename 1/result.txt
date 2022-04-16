@@ -1,0 +1,19 @@
+# MLFA Assignment 1
+
+# Team Members - 
+# Deepansh Agrawal - 19MI10018
+# Rohit Ranjan - 20CS30066
+# Neha Gupta - 20CH10094
+# Gautam Jaju - 20AG30015
+# Siddharth Madhupati - 20ME30083
+# Madiha Hanifa - 20MF10018
+# Himadri Pandya - 20ME10047
+
+-----------------------
+Results
+-----------------------
+
+1. Accuracy of CNN (OURS) + KNN (OURS) -> 0.6
+2. Accuracy of CNN (OURS) + KNN (SKLEARN) -> 0.6
+3. Accuracy of only KNN (SKLEARN) trained on entire train set-> 0.666666
+4. Accuracy of CNN (OURS) + KNN (OURS) trained on a stratified dataset-> 0.8

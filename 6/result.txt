@@ -1,0 +1,15 @@
+# MLFA Assignment 6
+
+# Rohit Ranjan - 20CS30066
+
+-----------------------
+Results
+-----------------------
+
+Dendogram Cut in both settings at 100 clusters after observing visual plots.
+
+1. Train Accuracy of HCA (OURS) with single linkage -> 0.48552338530066813
+2. Test Accuracy of HCA (OURS) with single linkage -> 0.36363636363636365
+
+3. Train Accuracy of HCA (OURS) with complete linkage -> 0.49665924276169265
+4. Test Accuracy of HCA (OURS) with complete linkage -> 0.46464646464646464

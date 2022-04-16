@@ -1,0 +1,19 @@
+MLFA Spring 2022: Assignment 6 : HAC
+
+Download the attached dataset ‘Twitter_data.csv’. The dataset contains the usage data of twitter along with the days of the week (Friday-Sunday). The columns present in the dataset are ‘TweetID’, ‘Day’, ‘Hour’, ‘Lang’, ‘IsReshare’, ‘Reach’, ‘RetweetCount’, ‘Likes’, ‘Sentiment’, ‘text’, ‘LocationID’, ’UserID’. All the columns are self-explanatory. We will use the data to cluster them according to the days of a week. 
+
+    Check for any missing values in the dataset. If there, drop the rows. 
+
+    Drop any redundant column. (If you feel it is needed) 
+
+    Separate the target column(‘Day’) from the dataset and convert it from categorical to integer. 
+
+    Visualize the dendogram of the data. 
+
+    Implement Hierarchical Agglomerative clustering with single and complete linkage both to cluster the dataset. You have to write the code from scratch without using any package for the clustering method. You can use general packages like numpy, pandas, matplotlib etc. 
+
+    Plot the resultant clusters in scatter plot. 
+
+    Report the percentage accuracy of the clustering. 
+
+

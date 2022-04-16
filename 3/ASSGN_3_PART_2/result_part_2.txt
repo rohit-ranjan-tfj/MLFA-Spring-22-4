@@ -1,0 +1,28 @@
+# MLFA Assignment 3 Part 2 - Backpropagation
+
+# Team Members - 
+# Deepansh Agrawal - 19MI10018
+# Rohit Ranjan - 20CS30066
+# Neha Gupta - 20CH10094
+# Gautam Jaju - 20AG30015
+# Siddharth Madhupati - 20ME30083
+# Madiha Hanifa - 20MF10018
+# Himadri Pandya - 20ME10047
+
+-----------------------
+Results
+-----------------------
+
+1. Accuracy of neural network (OURS) -> 0.8575
+2. Accuracy of logistic regrassion (TENSORFLOW) -> 0.8847
+
+-----------------------
+MODEL PARAMETERS
+-----------------------
+
+Layers - 3
+Layer dimensions - 784 128 10 [Model is powerful enough to have any number of layers and nodes per layer but learning rate has been tuned for this setting]
+Activation - ReLU
+Learning Rate - 0.0001
+Batch size - 128
+Epochs - 3

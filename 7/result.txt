@@ -1,0 +1,21 @@
+# MLFA Assignment 7
+
+# Rohit Ranjan - 20CS30066
+
+-----------------------
+Results
+-----------------------
+
+batch_size : 1
+learning_rate : 1e-4 with decay of 0.1 every 2000 epochs
+lasso_param : 0.5
+ridge_param : 0.5
+epochs : 10000
+
+1.	Accuracy on test set for Linear Regression (OURS) : 0.6792452830188679
+	
+2.	Accuracy on test set for Lasso Regression (OURS) : 0.7358490566037735
+	
+3.	Accuracy on test set for Ridge Regression (OURS) : 0.7547169811320755
+
+Lasso and Ridge Regression are able to generalise on test set much better because of the regularisation preventing overfitting.
